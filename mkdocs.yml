@@ -30,15 +30,15 @@ theme:
 
 nav:
     - Home: index.md
-    - Architecture:
-          - Overview: architecture/overview.md
-          - Layers: architecture/layers.md
-    - Development:
-          - Getting Started: development/getting-started.md
-          - Configuration: development/configuration.md
-          - Testing: development/testing.md
-    - API Reference:
-          - Endpoints: api/endpoints.md
+    # - Architecture:
+    #       - Overview: architecture/overview.md
+    #       - Layers: architecture/layers.md
+    # - Development:
+    #       - Getting Started: development/getting-started.md
+    #       - Configuration: development/configuration.md
+    #       - Testing: development/testing.md
+    # - API Reference:
+    #       - Endpoints: api/endpoints.md
 
 markdown_extensions:
     - pymdownx.highlight:
